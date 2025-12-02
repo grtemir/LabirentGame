@@ -1,4 +1,4 @@
-# LabirentGame
+# MazeGame
 
 A level-based maze game developed using Python and the Pygame library.
 
